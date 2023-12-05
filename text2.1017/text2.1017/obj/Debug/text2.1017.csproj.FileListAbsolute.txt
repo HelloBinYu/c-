@@ -1,0 +1,10 @@
+E:\c#\text2.1017\text2.1017\obj\Debug\text2.1017.csproj.AssemblyReference.cache
+E:\c#\text2.1017\text2.1017\obj\Debug\text2._1017.btnOK.resources
+E:\c#\text2.1017\text2.1017\obj\Debug\text2._1017.Properties.Resources.resources
+E:\c#\text2.1017\text2.1017\obj\Debug\text2.1017.csproj.GenerateResource.cache
+E:\c#\text2.1017\text2.1017\obj\Debug\text2.1017.csproj.CoreCompileInputs.cache
+E:\c#\text2.1017\text2.1017\bin\Debug\text2.1017.exe.config
+E:\c#\text2.1017\text2.1017\bin\Debug\text2.1017.exe
+E:\c#\text2.1017\text2.1017\bin\Debug\text2.1017.pdb
+E:\c#\text2.1017\text2.1017\obj\Debug\text2.1017.exe
+E:\c#\text2.1017\text2.1017\obj\Debug\text2.1017.pdb

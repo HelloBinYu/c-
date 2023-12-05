@@ -1,0 +1,10 @@
+E:\c#\text2.2.43\obj\Debug\text2.2.43.csproj.AssemblyReference.cache
+E:\c#\text2.2.43\obj\Debug\text2._2._43.Form1.resources
+E:\c#\text2.2.43\obj\Debug\text2._2._43.Properties.Resources.resources
+E:\c#\text2.2.43\obj\Debug\text2.2.43.csproj.GenerateResource.cache
+E:\c#\text2.2.43\obj\Debug\text2.2.43.csproj.CoreCompileInputs.cache
+E:\c#\text2.2.43\bin\Debug\text2.2.43.exe.config
+E:\c#\text2.2.43\bin\Debug\text2.2.43.exe
+E:\c#\text2.2.43\bin\Debug\text2.2.43.pdb
+E:\c#\text2.2.43\obj\Debug\text2.2.43.exe
+E:\c#\text2.2.43\obj\Debug\text2.2.43.pdb

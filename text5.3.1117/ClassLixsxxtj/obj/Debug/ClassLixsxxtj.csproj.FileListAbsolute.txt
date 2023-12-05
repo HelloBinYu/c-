@@ -1,0 +1,6 @@
+E:\c#\text5.3.1117\ClassLixsxxtj\bin\Debug\ClassLixsxxtj.dll
+E:\c#\text5.3.1117\ClassLixsxxtj\bin\Debug\ClassLixsxxtj.pdb
+E:\c#\text5.3.1117\ClassLixsxxtj\obj\Debug\ClassLixsxxtj.csproj.AssemblyReference.cache
+E:\c#\text5.3.1117\ClassLixsxxtj\obj\Debug\ClassLixsxxtj.csproj.CoreCompileInputs.cache
+E:\c#\text5.3.1117\ClassLixsxxtj\obj\Debug\ClassLixsxxtj.dll
+E:\c#\text5.3.1117\ClassLixsxxtj\obj\Debug\ClassLixsxxtj.pdb

@@ -1,0 +1,13 @@
+E:\c#\text5.1107\text5.1107\bin\Debug\text5.1107.exe.config
+E:\c#\text5.1107\text5.1107\bin\Debug\text5.1107.exe
+E:\c#\text5.1107\text5.1107\bin\Debug\text5.1107.pdb
+E:\c#\text5.1107\text5.1107\bin\Debug\ClassLi.dll
+E:\c#\text5.1107\text5.1107\bin\Debug\ClassLi.pdb
+E:\c#\text5.1107\text5.1107\obj\Debug\text5.1107.csproj.AssemblyReference.cache
+E:\c#\text5.1107\text5.1107\obj\Debug\text5._1107.Form1.resources
+E:\c#\text5.1107\text5.1107\obj\Debug\text5._1107.Properties.Resources.resources
+E:\c#\text5.1107\text5.1107\obj\Debug\text5.1107.csproj.GenerateResource.cache
+E:\c#\text5.1107\text5.1107\obj\Debug\text5.1107.csproj.CoreCompileInputs.cache
+E:\c#\text5.1107\text5.1107\obj\Debug\text5.1107.csproj.CopyComplete
+E:\c#\text5.1107\text5.1107\obj\Debug\text5.1107.exe
+E:\c#\text5.1107\text5.1107\obj\Debug\text5.1107.pdb

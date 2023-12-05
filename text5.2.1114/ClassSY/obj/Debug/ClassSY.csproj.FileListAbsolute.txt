@@ -1,0 +1,6 @@
+E:\c#\text5.2.1114\ClassSY\bin\Debug\ClassSY.dll
+E:\c#\text5.2.1114\ClassSY\bin\Debug\ClassSY.pdb
+E:\c#\text5.2.1114\ClassSY\obj\Debug\ClassSY.csproj.AssemblyReference.cache
+E:\c#\text5.2.1114\ClassSY\obj\Debug\ClassSY.csproj.CoreCompileInputs.cache
+E:\c#\text5.2.1114\ClassSY\obj\Debug\ClassSY.dll
+E:\c#\text5.2.1114\ClassSY\obj\Debug\ClassSY.pdb

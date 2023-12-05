@@ -1,0 +1,10 @@
+E:\c#\text\text4.1031.107y\text4.1031.107y\bin\Debug\text4.1031.107y.exe.config
+E:\c#\text\text4.1031.107y\text4.1031.107y\bin\Debug\text4.1031.107y.exe
+E:\c#\text\text4.1031.107y\text4.1031.107y\bin\Debug\text4.1031.107y.pdb
+E:\c#\text\text4.1031.107y\text4.1031.107y\obj\Debug\text4.1031.107y.csproj.AssemblyReference.cache
+E:\c#\text\text4.1031.107y\text4.1031.107y\obj\Debug\text4._1031._107y.Form1.resources
+E:\c#\text\text4.1031.107y\text4.1031.107y\obj\Debug\text4._1031._107y.Properties.Resources.resources
+E:\c#\text\text4.1031.107y\text4.1031.107y\obj\Debug\text4.1031.107y.csproj.GenerateResource.cache
+E:\c#\text\text4.1031.107y\text4.1031.107y\obj\Debug\text4.1031.107y.csproj.CoreCompileInputs.cache
+E:\c#\text\text4.1031.107y\text4.1031.107y\obj\Debug\text4.1031.107y.exe
+E:\c#\text\text4.1031.107y\text4.1031.107y\obj\Debug\text4.1031.107y.pdb

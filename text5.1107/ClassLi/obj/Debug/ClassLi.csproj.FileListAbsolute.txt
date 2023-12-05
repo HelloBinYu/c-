@@ -1,0 +1,6 @@
+E:\c#\text5.1107\ClassLi\bin\Debug\ClassLi.dll
+E:\c#\text5.1107\ClassLi\bin\Debug\ClassLi.pdb
+E:\c#\text5.1107\ClassLi\obj\Debug\ClassLi.csproj.AssemblyReference.cache
+E:\c#\text5.1107\ClassLi\obj\Debug\ClassLi.csproj.CoreCompileInputs.cache
+E:\c#\text5.1107\ClassLi\obj\Debug\ClassLi.dll
+E:\c#\text5.1107\ClassLi\obj\Debug\ClassLi.pdb

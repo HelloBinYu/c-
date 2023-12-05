@@ -1,0 +1,13 @@
+E:\c#\text5.3.1117\text5.3.1117\bin\Debug\text5.3.1117.exe.config
+E:\c#\text5.3.1117\text5.3.1117\bin\Debug\text5.3.1117.exe
+E:\c#\text5.3.1117\text5.3.1117\bin\Debug\text5.3.1117.pdb
+E:\c#\text5.3.1117\text5.3.1117\bin\Debug\ClassLixsxxtj.dll
+E:\c#\text5.3.1117\text5.3.1117\bin\Debug\ClassLixsxxtj.pdb
+E:\c#\text5.3.1117\text5.3.1117\obj\Debug\text5.3.1117.csproj.AssemblyReference.cache
+E:\c#\text5.3.1117\text5.3.1117\obj\Debug\text5._3._1117.Form1.resources
+E:\c#\text5.3.1117\text5.3.1117\obj\Debug\text5._3._1117.Properties.Resources.resources
+E:\c#\text5.3.1117\text5.3.1117\obj\Debug\text5.3.1117.csproj.GenerateResource.cache
+E:\c#\text5.3.1117\text5.3.1117\obj\Debug\text5.3.1117.csproj.CoreCompileInputs.cache
+E:\c#\text5.3.1117\text5.3.1117\obj\Debug\text5.3.1117.csproj.CopyComplete
+E:\c#\text5.3.1117\text5.3.1117\obj\Debug\text5.3.1117.exe
+E:\c#\text5.3.1117\text5.3.1117\obj\Debug\text5.3.1117.pdb

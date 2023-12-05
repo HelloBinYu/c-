@@ -1,0 +1,10 @@
+E:\c#\text3.1025\text3.1025\bin\Debug\text3.1025.exe.config
+E:\c#\text3.1025\text3.1025\bin\Debug\text3.1025.exe
+E:\c#\text3.1025\text3.1025\bin\Debug\text3.1025.pdb
+E:\c#\text3.1025\text3.1025\obj\Debug\text3.1025.csproj.AssemblyReference.cache
+E:\c#\text3.1025\text3.1025\obj\Debug\text3._1025.Form1.resources
+E:\c#\text3.1025\text3.1025\obj\Debug\text3._1025.Properties.Resources.resources
+E:\c#\text3.1025\text3.1025\obj\Debug\text3.1025.csproj.GenerateResource.cache
+E:\c#\text3.1025\text3.1025\obj\Debug\text3.1025.csproj.CoreCompileInputs.cache
+E:\c#\text3.1025\text3.1025\obj\Debug\text3.1025.exe
+E:\c#\text3.1025\text3.1025\obj\Debug\text3.1025.pdb

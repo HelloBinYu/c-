@@ -1,0 +1,13 @@
+E:\c#\text5.2.1114\text5.2.1114\bin\Debug\text5.2.1114.exe.config
+E:\c#\text5.2.1114\text5.2.1114\bin\Debug\text5.2.1114.exe
+E:\c#\text5.2.1114\text5.2.1114\bin\Debug\text5.2.1114.pdb
+E:\c#\text5.2.1114\text5.2.1114\bin\Debug\ClassSY.dll
+E:\c#\text5.2.1114\text5.2.1114\bin\Debug\ClassSY.pdb
+E:\c#\text5.2.1114\text5.2.1114\obj\Debug\text5.2.1114.csproj.AssemblyReference.cache
+E:\c#\text5.2.1114\text5.2.1114\obj\Debug\text5._2._1114.Form1.resources
+E:\c#\text5.2.1114\text5.2.1114\obj\Debug\text5._2._1114.Properties.Resources.resources
+E:\c#\text5.2.1114\text5.2.1114\obj\Debug\text5.2.1114.csproj.GenerateResource.cache
+E:\c#\text5.2.1114\text5.2.1114\obj\Debug\text5.2.1114.csproj.CoreCompileInputs.cache
+E:\c#\text5.2.1114\text5.2.1114\obj\Debug\text5.2.1114.csproj.CopyComplete
+E:\c#\text5.2.1114\text5.2.1114\obj\Debug\text5.2.1114.exe
+E:\c#\text5.2.1114\text5.2.1114\obj\Debug\text5.2.1114.pdb
